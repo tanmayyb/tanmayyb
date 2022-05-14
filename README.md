@@ -1,9 +1,8 @@
 ### Hi there 👋
 ## About Me :thought_balloon:
 
-Hey I'm Nik,
+Hey I'm @tanmayyb
 
-A 3rd year computer science student minoring in math at Ryerson University with an interest in robotics, machine learning, computer vision and creating visual simulations (visual effects, physics simulations, visualized algorithms etc...).
 
 ## Currently Learning :books:
 
