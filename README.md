@@ -4,9 +4,8 @@
 Hey I'm @tanmayyb
 
 
-## Currently Learning :books:
+## My courses :books:
 
-my current semester course load consists of 
   - data structures and algorithms
   - linear algebra
   - control systems I
