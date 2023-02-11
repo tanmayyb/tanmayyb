@@ -18,6 +18,7 @@ Hey I'm Tanmay Bishnoi, a senior undergrad in Bachelor's of Engineering in Elect
   - probability and statistics I
   - signals and systems I & II
   - electromagnetics
+  - energy conversion
 #### Robotics & AI
   - intelligent systems
   - intro to Deep Learning + Capstone (by Neuromatch Academy, online)
