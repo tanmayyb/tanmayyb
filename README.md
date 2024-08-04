@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## About Me :thought_balloon:
 
-Hey I'm Tanmay Bishnoi, a senior undergrad in Bachelor's of Engineering in Electrical Engineering (BEEE) at TMU (formerly Ryerson University). I'm interested in AI and Robotics, and want to pursue a future in machine intelligence, robot-human interaction, and neuroinformatics.
+Hey I'm Tanmay Bishnoi, a senior undergrad in Bachelor's of Engineering in Electrical Engineering (BEEE) at TMU (formerly Ryerson University). I'm interested in AI and Robotics, and want to pursue a future in machine intelligence, neurorobotics, and BCIs.
 
 
 ## My course history :books:
